@@ -4,7 +4,7 @@ How to learn and understand Ethereum
 
 ## Tuto to learn Solidity
 
-- Learn Solidity and Smart Contracts by creating [CryptoZombies](https://cryptozombies.io/ "CryptoZombies by Loom")
+- Learn __Solidity and Smart Contracts__ by creating [CryptoZombies](https://cryptozombies.io/ "CryptoZombies by Loom")
 - Contract deployement, interactions ans utilisation on [Pet Shop Truffle](http://truffleframework.com/tutorials/pet-shop "Pet Shop Truffle")
 - Learn Contract Security on [Ethernaut](https://ethernaut.zeppelin.solutions/ "Ethernaut")
 
