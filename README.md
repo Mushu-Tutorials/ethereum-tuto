@@ -2,6 +2,16 @@
 
 How to learn and understand Ethereum 
 
+## Summary
+
+- [Buy Ethereum](#buy-ethereum)
+- [Tuto to learn Solidity](#tuto-to-learn-solidity)
+- [Usefull links](#usefull-links)
+
+## Buy Ethereum
+
+- The first gate to by Ethereum in France is [Kraken](https://www.kraken.com/ "Kraken.com")
+
 ## Tuto to learn Solidity
 
 - Learn __Solidity and Smart Contracts__ by creating [CryptoZombies](https://cryptozombies.io/ "CryptoZombies by Loom")
