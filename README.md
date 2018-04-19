@@ -10,9 +10,10 @@ How to learn and understand Ethereum
 - [Tuto to learn Solidity](#tuto-to-learn-solidity)
 - [Useful links](#useful-links)
 
-## Buy Ethereum
+## Ethereum Links
 
 - The first gate to buy Ethereum in France is [Kraken](https://www.kraken.com/ "Kraken.com")
+- A way to earn Ethereum coins by resolving issues : [GitCoin.co](https://gitcoin.co/ "GitCoin.co")
 
 ## Tuto to learn Solidity
 
