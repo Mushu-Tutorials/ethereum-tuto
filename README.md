@@ -1,4 +1,4 @@
-![Image](.ethereum.png "Ethereum logo")
+![Image](./ethereum.png "Ethereum logo")
 
 # Ethereum Tutorial
 
